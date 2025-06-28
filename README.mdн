@@ -1,0 +1,16 @@
+# wallet-watcher
+
+🪙 A lightweight Python script to check an Ethereum wallet balance using the Etherscan API.
+
+## Features
+
+- 🔍 Checks ETH wallet balance using the Etherscan API
+- 🪶 No complex dependencies (only `requests`)
+- 🧱 Minimal setup — one Python file
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gergreferr/wallet-watcher.git
+   cd wallet-watcher
